@@ -1,2 +1,4 @@
-# End-to-End-Object-Detection-with-Transformer-DETR-
-DETR: End-to-End Object Detection with Transformers 
+# DETR: End-to-End Object Detection with Transformers 
+
+# Reference
+[1] https://github.com/facebookresearch/detr
